@@ -1,9 +1,8 @@
 package com.expensemanagement;
-import com.expensemanagement.*;
 
-import java.util.List;
-
-import javax.persistence.*;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
 
 @Entity
 public class Category {

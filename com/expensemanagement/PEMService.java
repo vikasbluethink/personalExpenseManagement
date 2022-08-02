@@ -7,8 +7,6 @@ import java.util.Scanner;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
-import com.expensemanagement.*;
-
 public class PEMService {
 
 	Scanner in = new Scanner(System.in);
@@ -41,7 +39,6 @@ public class PEMService {
 				break;
 
 			case 0:
-				// TODO
 				System.out.println("Bye..");
 				System.exit(0);
 				break;

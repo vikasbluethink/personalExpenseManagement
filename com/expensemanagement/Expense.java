@@ -1,7 +1,5 @@
 package com.expensemanagement;
 
-import com.expensemanagement.*;
-
 import java.util.Date;
 
 import javax.persistence.*;

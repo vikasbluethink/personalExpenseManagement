@@ -1,6 +1,5 @@
 package com.expensemanagement;
 
-import com.expensemanagement.*;
 import java.util.*;
 
 import org.hibernate.SessionFactory;
